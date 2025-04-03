@@ -37,10 +37,10 @@ Upon launching the application, the following options are presented:
 
 ```
 Welcome to AwesomeGIC Bank! What would you like to do?
-[T] Input transactions
-[I] Define interest rules
-[P] Print statement
-[Q] Quit
+[T]/i Input transactions
+[I/i] Define interest rules
+[P/p] Print statement
+[Q/q] Quit
 >
 ```
 
