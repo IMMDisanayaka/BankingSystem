@@ -45,6 +45,6 @@ Welcome to AwesomeGIC Bank! What would you like to do?
 ```
 
 Users can:
-- Input transactions**: Enter transaction details in the format `<Date> <Account> <Type> <Amount>`.
-- Define interest rules**: Define interest rules by entering `<Date> <RuleId> <Rate in %>`.
-- Print statement**: Generate account statements by entering `<Account> <YearMonth>`.
+- Input transactions: Enter transaction details in the format `<Date> <Account> <Type> <Amount>`.
+- Define interest rules: Define interest rules by entering `<Date> <RuleId> <Rate in %>`.
+- Print statement: Generate account statements by entering `<Account> <YearMonth>`.
